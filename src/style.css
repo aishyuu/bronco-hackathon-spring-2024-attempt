@@ -3,6 +3,10 @@ body {
     color: white;
 }
 
+#map {
+    height: 100vh;
+}
+
 .welcome {
     display: flex;
     flex-direction: column;
